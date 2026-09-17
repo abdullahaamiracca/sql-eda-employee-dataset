@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,age,gender,department,job_title,salary,hire_date,city,email
+1,John,Smith,25,Male,Accounting,Accountant,5000,2023-01-15,Dubai,john.smith@email.com
+2,Sarah,Ahmed,28,Female,finance,Financial Analyst,6500,2022-03-22,Abu Dhabi,sarah.ahmed@email.com
+3,Michael,Brown,32,Male,IT,Software Engineer,7500,2021-07-10,Dubai,michael.brown@email.com
+4,Aisha,Khan,24,Female,Marketing,Marketing Assistant,4500,2024-02-01,Sharjah,aisha.khan@email.com
+5,David,Wilson,35,Male,HR,HR Manager,8200,2020-11-18,Dubai,david.wilson@email.com
+6,Emma,Johnson,29,Female,ACCOUNTING,Senior Accountant,5800,2022-06-12,Abu Dhabi,emma.johnson@email.com
+7,Ali,Hassan,31,Male,"Finance ",Finance Manager,7200,2021-04-25,Dubai,ali.hassan@email.com
+8,Daniel,Taylor,27,Male,IT,IT Support,5200,2023-09-03,Sharjah,daniel.taylor@email.com
+9,Maya,Patel,26,Female,Marketing,Marketing Executive,4900,2023-05-19,Dubai,maya.patel@email.com
+10,James,Anderson,40,Male,HR,HR Specialist,7600,2019-08-14,Abu Dhabi,james.anderson@email.com
+11,Noah,Thomas,23,Male,Accounting,Junior Accountant,4200,2024-01-08,Dubai,noah.thomas@email.com
+12,Fatima,Malik,30,Female,Finance,Financial Analyst,6800,2022-10-30,Sharjah,fatima.malik@email.com
+13,William,Moore,34,Male,IT,Developer,7900,2020-05-11,Dubai,william.moore@email.com
+14,Sara,Ibrahim,27,Female,marketing,Marketing Executive,5100,2023-11-06,Abu Dhabi,sara.ibrahim@email.com
+15,Robert,Martin,38,Male,HR,HR Manager,7600,2019-03-20,Dubai,robert.martin@email.com
+16,Olivia,Lee,22,Female,Accounting,Intern,4000,2024-06-17,Sharjah,olivia.lee@email.com
+17,Omar,Khan,33,Male,Finance,Senior Analyst,6800,2021-12-01,Dubai,omar.khan@email.com
+18,Ethan,Clark,29,Male,IT,Developer,7100,2022-08-23,Abu Dhabi,ethan.clark@email.com
+19,Zainab,Ali,25,Female,Marketing,Marketing Assistant,4700,2024-03-12,Dubai,zainab.ali@email.com
+20,Thomas,Walker,36,Male,HR,HR Specialist,7300,2020-09-29,Sharjah,thomas.walker@email.com
+21,Sophia,Hall,28,Female,Accounting,Accountant,5500,2022-01-13,Dubai,sophia.hall@email.com
+22,Hamza,Raza,26,Male,Finance,Junior Analyst,6200,2023-07-07,Abu Dhabi,hamza.raza@email.com
+23,Lucas,Young,31,Male,IT,Software Engineer,7400,2021-02-16,Dubai,lucas.young@email.com
+24,Hana,Saeed,24,Female,Marketing,Marketing Assistant,4600,2024-04-05,Sharjah,hana.saeed@email.com
+25,Benjamin,King,42,Male,HR,HR Director,9000,2018-10-21,Dubai,benjamin.king@email.com
+26,Isabella,Wright,30,Female,Accounting,Senior Accountant,6100,2021-09-15,Abu Dhabi,isabella.wright@email.com
+27,Ahmed,Farooq,37,Male,FINANCE,Finance Manager,7800,2020-01-27,Dubai,ahmed.farooq@email.com
+28,Henry,Scott,28,Male,IT,IT Support,6900,2022-12-19,Sharjah,henry.scott@email.com
+29,Layla,Nasser,32,Female,Marketing,Marketing Manager,5600,2021-06-08,Dubai,layla.nasser@email.com
+30,Alexander,Green,45,Male,HR,HR Director,9500,2017-04-14,Abu Dhabi,alex.green@email.com
+31,John,Smith,25,Male,Accounting,Accountant,5000,2023-01-15,Dubai,john.smith@email.com
+32," Maria ",Garcia,27,Female," Finance",Financial Analyst,6400,2023-02-10,Dubai,maria.garcia@email.com
+33,Ryan,Evans,17,Male,IT,Developer,7000,2022-05-18,Abu Dhabi,ryan.evans@email.com
+34,Nora,Wilson,150,Female,HR,HR Specialist,6100,2021-03-22,Dubai,nora.wilson@email.com
+35,Adam,Jones,29,Male,accounting,Accountant,"5,400",2022-09-11,Sharjah,adam.jones@email.com
+36,Lina,Hussain,26,Female,"Marketing ",Marketing Executive,5000,11/15/2023,Dubai,lina.hussain@email.com
+37,Mark,Davis,33,Male,IT,Software Engineer,null,2020-07-30,Dubai,mark.davis@email.com
+38,Sana,Khan,28,Female,Finance,Financial Analyst,6600,null,Abu Dhabi,sana.khan@email.com
+39,Chris,Miller,30,Male,IT,Developer,7200,2022-04-17,Dubai,chrismiller.email.com
+40,Ava,Taylor,27,Female,Marketing,Marketing Assistant,4800,2023-08-09,Dubai,ava.taylor@email.com
+41,Daniel,Taylor,27,Male,IT,IT Support,5200,2023-09-03,Sharjah,daniel.taylor@email.com
+42,Yusuf,Ali,31,Male," Finance ",Senior Analyst,7100,2021-11-02,Dubai,yusuf.ali@email.com
+43,Mia,Brown,29,Female,HR,HR Specialist,6200,2022-02-28,Abu Dhabi,mia.brown@email.com
+44,Sam,Khan,26,Male,"ACCOUNTING ",Junior Accountant,4300,2024-05-10,Sharjah,sam.khan@email.com
+45,Ella,Martin,34,Female,Finance,Financial Analyst,6900,2020-12-16,Dubai,ella.martin@email.com
+46,Leo,White,39,Male,IT,Software Engineer,8100,2019-07-04,Abu Dhabi,leo.white@email.com
+47,Amina,Saeed,25,Female,Marketing,Marketing Executive,5100,2023-10-12,Dubai,amina.saeed@email.com
+48,Jack,Harris,41,Male,HR,HR Manager,8300,2018-06-25,Sharjah,jack.harris@email.com
+49,Zara,Ahmed,23,Female,finance,Junior Analyst,5900,2024-02-22,Dubai,zara.ahmed@email.com
+50,Owen,Clark,36,Male,IT,Developer,7600,2020-03-19,Abu Dhabi,owen.clark@email.com
